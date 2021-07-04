@@ -10,7 +10,7 @@ API Key management
 ## Install
 
 ```sh
-yarn add @sudoo/api-key --dev
+yarn add @sudoo/api-key
 # Or
-npm install @sudoo/api-key --save-dev
+npm install @sudoo/api-key --save
 ```
